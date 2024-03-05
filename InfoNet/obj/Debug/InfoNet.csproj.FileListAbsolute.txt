@@ -1,0 +1,21 @@
+C:\Users\Honza\OneDrive - SŠINFIS\3. Ročník\Prinich\InfoNet\InfoNet\bin\Debug\InfoNet.exe.config
+C:\Users\Honza\OneDrive - SŠINFIS\3. Ročník\Prinich\InfoNet\InfoNet\bin\Debug\InfoNet.exe
+C:\Users\Honza\OneDrive - SŠINFIS\3. Ročník\Prinich\InfoNet\InfoNet\bin\Debug\InfoNet.pdb
+C:\Users\Honza\OneDrive - SŠINFIS\3. Ročník\Prinich\InfoNet\InfoNet\obj\Debug\InfoNet.csproj.AssemblyReference.cache
+C:\Users\Honza\OneDrive - SŠINFIS\3. Ročník\Prinich\InfoNet\InfoNet\obj\Debug\InfoNet.csproj.CoreCompileInputs.cache
+C:\Users\Honza\OneDrive - SŠINFIS\3. Ročník\Prinich\InfoNet\InfoNet\obj\Debug\InfoNet.exe
+C:\Users\Honza\OneDrive - SŠINFIS\3. Ročník\Prinich\InfoNet\InfoNet\obj\Debug\InfoNet.pdb
+C:\Users\Honza\Desktop\InfoNet\InfoNet\bin\Debug\InfoNet.exe.config
+C:\Users\Honza\Desktop\InfoNet\InfoNet\bin\Debug\InfoNet.exe
+C:\Users\Honza\Desktop\InfoNet\InfoNet\bin\Debug\InfoNet.pdb
+C:\Users\Honza\Desktop\InfoNet\InfoNet\obj\Debug\InfoNet.csproj.AssemblyReference.cache
+C:\Users\Honza\Desktop\InfoNet\InfoNet\obj\Debug\InfoNet.csproj.CoreCompileInputs.cache
+C:\Users\Honza\Desktop\InfoNet\InfoNet\obj\Debug\InfoNet.exe
+C:\Users\Honza\Desktop\InfoNet\InfoNet\obj\Debug\InfoNet.pdb
+C:\Users\Honza\Desktop\praxe\InfoNet\InfoNet\bin\Debug\InfoNet.exe.config
+C:\Users\Honza\Desktop\praxe\InfoNet\InfoNet\bin\Debug\InfoNet.exe
+C:\Users\Honza\Desktop\praxe\InfoNet\InfoNet\bin\Debug\InfoNet.pdb
+C:\Users\Honza\Desktop\praxe\InfoNet\InfoNet\obj\Debug\InfoNet.csproj.AssemblyReference.cache
+C:\Users\Honza\Desktop\praxe\InfoNet\InfoNet\obj\Debug\InfoNet.csproj.CoreCompileInputs.cache
+C:\Users\Honza\Desktop\praxe\InfoNet\InfoNet\obj\Debug\InfoNet.exe
+C:\Users\Honza\Desktop\praxe\InfoNet\InfoNet\obj\Debug\InfoNet.pdb

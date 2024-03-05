@@ -1,0 +1,7 @@
+C:\Users\Honza\Desktop\InfoNet\InfoNet\bin\Release\InfoNet.exe.config
+C:\Users\Honza\Desktop\InfoNet\InfoNet\bin\Release\InfoNet.exe
+C:\Users\Honza\Desktop\InfoNet\InfoNet\bin\Release\InfoNet.pdb
+C:\Users\Honza\Desktop\InfoNet\InfoNet\obj\Release\InfoNet.csproj.AssemblyReference.cache
+C:\Users\Honza\Desktop\InfoNet\InfoNet\obj\Release\InfoNet.csproj.CoreCompileInputs.cache
+C:\Users\Honza\Desktop\InfoNet\InfoNet\obj\Release\InfoNet.exe
+C:\Users\Honza\Desktop\InfoNet\InfoNet\obj\Release\InfoNet.pdb
